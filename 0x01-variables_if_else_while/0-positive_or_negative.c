@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
+#include <stdio.h>
 /**
  * main-return the signe of a random number .
  * Return:0 exit with 0 if no errors.
